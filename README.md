@@ -1,13 +1,14 @@
 # Projeto de UPX -3 Market Place SUNPLANCE
 
-## O projeto foi desenvolvido utlizando as tecnologias:
+## Tecnologias Utilizadas
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - PHP
 - HTML
 - CSS
-- JAVASCRIPT
+- JavaScript
 
-## Banco de dados
-- MYSQL
+## Banco de Dados
+- MySQL
 
 
 ![ALT Text](img/tela-sunplace-3.png)
